@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mirzaromi
 - 👀 I’m interested in back-end developing
-- 🌱 I’m currently learning laravel
-- 💞️ I’m looking to collaborate on any beginner laravel project
-- 📫 How to reach me WA: 087751655141
+- 🌱 I’m currently developing laravel and java spring-boot project
+- 📫 How to reach me email:mirzaromi12@gmail.com
 
 <!---
 mirzaromi/mirzaromi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
